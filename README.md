@@ -1,2 +1,3 @@
-# demo-repo
-Demo for Github intro.
+# This is a demo file 
+
+My first Github repository...
